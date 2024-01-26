@@ -1,70 +1,70 @@
 {
   "source": "HungryRaccoonStudios/SampleCards",
   "title": "Linux Command",
-  "description": "Test your knowledge of Linux commands by matching the descriptions with the correct command.",
+  "description": "Test your knowledge of Linux commands by matching the descriptions with the correct command",
   "translations": [
     {
-      "question": "Description: List files and directories in the current directory.",
+      "question": "List files and directories in the current directory",
       "answer": "ls"
     },
     {
-      "question": "Description: Change directory.",
+      "question": "Change directory",
       "answer": "cd"
     },
     {
-      "question": "Description: Print the current working directory.",
+      "question": "Print the current working directory",
       "answer": "pwd"
     },
     {
-      "question": "Description: Copy files or directories.",
+      "question": "Copy files or directories",
       "answer": "cp"
     },
     {
-      "question": "Description: Move or rename files or directories.",
+      "question": "Move or rename files or directories",
       "answer": "mv"
     },
     {
-      "question": "Description: Remove files or directories.",
+      "question": "Remove files or directories",
       "answer": "rm"
     },
     {
-      "question": "Description: Create a new directory.",
+      "question": "Create a new directory",
       "answer": "mkdir"
     },
     {
-      "question": "Description: Remove an empty directory.",
+      "question": "Remove an empty directory",
       "answer": "rmdir"
     },
     {
-      "question": "Description: Display or concatenate the content of files.",
+      "question": "Display or concatenate the content of files",
       "answer": "cat"
     },
     {
-      "question": "Description: Search for patterns in files.",
+      "question": "Search for patterns in files",
       "answer": "grep"
     },
     {
-      "question": "Description: Change file permissions.",
+      "question": "Change file permissions",
       "answer": "chmod"
     },
     {
-      "question": "Description: Display information about running processes.",
+      "question": "Display information about running processes",
       "answer": "ps"
     },
     {
-      "question": "Description: Terminate or signal processes.",
+      "question": "Terminate or signal processes",
       "answer": "kill"
     },
     {
-      "question": "Description: Display disk space usage.",
+      "question": "Display disk space usage",
       "answer": "df"
     },
     {
-      "question": "Description: Display the manual for a command.",
+      "question": "Display the manual for a command",
       "answer": "man"
     },
     {
-      "question": "Description: Display command history.",
+      "question": "Display command history",
       "answer": "history"
     }
   ]
