@@ -1,0 +1,71 @@
+{
+  "source": "HungryRaccoonStudios/SampleCards",
+  "title": "Guess the Advanced Linux Command",
+  "description": "Test your knowledge of advanced Linux commands, including Git, Docker, and networking, by matching the descriptions with the correct command.",
+  "translations": [
+    {
+      "question": "Description: Show the commit history with a concise graph in Git.",
+      "answer": "git log --all --decorate --oneline --graph"
+    },
+    {
+      "question": "Description: Create a new Git branch and switch to it.",
+      "answer": "git checkout -b [branch_name]"
+    },
+    {
+      "question": "Description: View detailed information about Docker containers.",
+      "answer": "docker inspect [container_id]"
+    },
+    {
+      "question": "Description: Build a Docker image from a Dockerfile.",
+      "answer": "docker build -t [image_name] [path_to_Dockerfile]"
+    },
+    {
+      "question": "Description: Display detailed network information, including IP addresses and ports.",
+      "answer": "ip a"
+    },
+    {
+      "question": "Description: Show the current network connections and listening ports.",
+      "answer": "netstat -an"
+    },
+    {
+      "question": "Description: Display the routing table.",
+      "answer": "route -n"
+    },
+    {
+      "question": "Description: Monitor network packet statistics.",
+      "answer": "tcpdump"
+    },
+    {
+      "question": "Description: Check the availability of a network host.",
+      "answer": "ping [host]"
+    },
+    {
+      "question": "Description: Display active network connections and their status.",
+      "answer": "ss"
+    },
+    {
+      "question": "Description: Show the Linux kernel's networking stack information.",
+      "answer": "ethtool -i [interface]"
+    },
+    {
+      "question": "Description: View the contents of a compressed file without extracting it.",
+      "answer": "zcat [file]"
+    },
+    {
+      "question": "Description: View and interact with logs in real-time.",
+      "answer": "tail -f [file]"
+    },
+    {
+      "question": "Description: Search for a specific string in files within a directory.",
+      "answer": "grep -r [pattern] [directory]"
+    },
+    {
+      "question": "Description: Display real-time information about system resource usage.",
+      "answer": "glances"
+    },
+    {
+      "question": "Description: Display detailed information about the system memory.",
+      "answer": "free -h"
+    }
+  ]
+}
