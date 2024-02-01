@@ -2,70 +2,70 @@
   "source": "HungryRaccoonStudios/SampleCards",
   "title": "Advanced Terminal Commands",
   "description": "Test your knowledge of advanced Linux commands, including Git, Docker, and networking, by matching the descriptions with the correct command.",
-  "translations": [
+  "flashcards": [
     {
-      "question": "Show the commit history with a concise graph in Git",
-      "answer": "git log --all --decorate --oneline --graph"
+      "cardfront": "Show the commit history with a concise graph in Git",
+      "cardback": "git log --all --decorate --oneline --graph"
     },
     {
-      "question": "Create a new Git branch and switch to it",
-      "answer": "git checkout -b [branch_name]"
+      "cardfront": "Create a new Git branch and switch to it",
+      "cardback": "git checkout -b [branch_name]"
     },
     {
-      "question": "View detailed information about Docker containers",
-      "answer": "docker inspect [container_id]"
+      "cardfront": "View detailed information about Docker containers",
+      "cardback": "docker inspect [container_id]"
     },
     {
-      "question": "Build a Docker image from a Dockerfile",
-      "answer": "docker build -t [image_name] [path_to_Dockerfile]"
+      "cardfront": "Build a Docker image from a Dockerfile",
+      "cardback": "docker build -t [image_name] [path_to_Dockerfile]"
     },
     {
-      "question": "Display detailed network information, including IP addresses and ports",
-      "answer": "ip a"
+      "cardfront": "Display detailed network information, including IP addresses and ports",
+      "cardback": "ip a"
     },
     {
-      "question": "Show the current network connections and listening ports",
-      "answer": "netstat -an"
+      "cardfront": "Show the current network connections and listening ports",
+      "cardback": "netstat -an"
     },
     {
-      "question": "Display the routing table",
-      "answer": "route -n" 
+      "cardfront": "Display the routing table",
+      "cardback": "route -n" 
     },
     {
-      "question": "Monitor network packet statistics",
-      "answer": "tcpdump"
+      "cardfront": "Monitor network packet statistics",
+      "cardback": "tcpdump"
     },
     {
-      "question": "Check the availability of a network host",
-      "answer": "ping [host]"
+      "cardfront": "Check the availability of a network host",
+      "cardback": "ping [host]"
     },
     {
-      "question": "Display active network connections and their status",
-      "answer": "ss"
+      "cardfront": "Display active network connections and their status",
+      "cardback": "ss"
     },
     {
-      "question": "Show the Linux kernel's networking stack information",
-      "answer": "ethtool -i [interface]"
+      "cardfront": "Show the Linux kernel's networking stack information",
+      "cardback": "ethtool -i [interface]"
     },
     {
-      "question": "View the contents of a compressed file without extracting it",
-      "answer": "zcat [file]"
+      "cardfront": "View the contents of a compressed file without extracting it",
+      "cardback": "zcat [file]"
     },
     {
-      "question": "View and interact with logs in real-time",
-      "answer": "tail -f [file]"
+      "cardfront": "View and interact with logs in real-time",
+      "cardback": "tail -f [file]"
     },
     {
-      "question": "Search for a specific string in files within a directory",
-      "answer": "grep -r [pattern] [directory]"
+      "cardfront": "Search for a specific string in files within a directory",
+      "cardback": "grep -r [pattern] [directory]"
     },
     {
-      "question": "Display real-time information about system resource usage",
-      "answer": "glances"
+      "cardfront": "Display real-time information about system resource usage",
+      "cardback": "glances"
     },
     {
-      "question": "Display detailed information about the system memory",
-      "answer": "free -h"
+      "cardfront": "Display detailed information about the system memory",
+      "cardback": "free -h"
     }
   ]
 }
