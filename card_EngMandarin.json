@@ -2,86 +2,86 @@
   "source": "HungryRaccoonStudios/SampleCards",
   "title": "English-Mandarin Letter/Sound Correlation",
   "description": "Practice your English-Mandarin letter and sound correlation",
-  "translations": [
+  "flashcards": [
     {
-      "question": "你好 -- Nǐhǎo",
-      "answer": "Hello"
+      "cardfront": "你好 -- Nǐhǎo",
+      "cardback": "Hello"
     },
     {
-      "question": "谢谢 -- Xièxiè",
-      "answer": "Thank you"
+      "cardfront": "谢谢 -- Xièxiè",
+      "cardback": "Thank you"
     },
     {
-      "question": "对不起 -- Duìbùqǐ",
-      "answer": "Sorry"
+      "cardfront": "对不起 -- Duìbùqǐ",
+      "cardback": "Sorry"
     },
     {
-      "question": "不要 -- Bùyào",
-      "answer": "Don't"
+      "cardfront": "不要 -- Bùyào",
+      "cardback": "Don't"
     },
     {
-      "question": "请 -- Qǐng",
-      "answer": "Please"
+      "cardfront": "请 -- Qǐng",
+      "cardback": "Please"
     },
     {
-      "question": "有 -- Yǒu",
-      "answer": "Have"
+      "cardfront": "有 -- Yǒu",
+      "cardback": "Have"
     },
     {
-      "question": "没有 -- Méiyǒu",
-      "answer": "Don't have"
+      "cardfront": "没有 -- Méiyǒu",
+      "cardback": "Don't have"
     },
     {
-      "question": "禁止 -- Jìnzhǐ",
-      "answer": "Forbidden"
+      "cardfront": "禁止 -- Jìnzhǐ",
+      "cardback": "Forbidden"
     },
     {
-      "question": "出口 -- Chūkǒu",
-      "answer": "Exit"
+      "cardfront": "出口 -- Chūkǒu",
+      "cardback": "Exit"
     },
     {
-      "question": "入口 -- Rùkǒu",
-      "answer": "Entrance"
+      "cardfront": "入口 -- Rùkǒu",
+      "cardback": "Entrance"
     },
     {
-      "question": "停车 -- Tíngchē",
-      "answer": "Parking"
+      "cardfront": "停车 -- Tíngchē",
+      "cardback": "Parking"
     },
     {
-      "question": "医院 -- Yīyuàn",
-      "answer": "Hospital"
+      "cardfront": "医院 -- Yīyuàn",
+      "cardback": "Hospital"
     },
     {
-      "question": "学校 -- Xuéxiào",
-      "answer": "School"
+      "cardfront": "学校 -- Xuéxiào",
+      "cardback": "School"
     },
     {
-      "question": "餐厅 -- Cāntīng",
-      "answer": "Restaurant"
+      "cardfront": "餐厅 -- Cāntīng",
+      "cardback": "Restaurant"
     },
     {
-      "question": "商店 -- Shāngdiàn",
-      "answer": "Store/Shop"
+      "cardfront": "商店 -- Shāngdiàn",
+      "cardback": "Store/Shop"
     },
     {
-      "question": "电梯 -- Diàntī",
-      "answer": "Elevator"
+      "cardfront": "电梯 -- Diàntī",
+      "cardback": "Elevator"
     },
     {
-      "question": "卫生间 -- Wèishēngjiān",
-      "answer": "Bathroom"
+      "cardfront": "卫生间 -- Wèishēngjiān",
+      "cardback": "Bathroom"
     },
     {
-      "question": "紧急出口 -- Jǐnjí chūkǒu",
-      "answer": "Emergency Exit"
+      "cardfront": "紧急出口 -- Jǐnjí chūkǒu",
+      "cardback": "Emergency Exit"
     },
     {
-      "question": "公交车站 -- Gōngjiāochē zhàn",
-      "answer": "Bus Stop"
+      "cardfront": "公交车站 -- Gōngjiāochē zhàn",
+      "cardback": "Bus Stop"
     },
     {
-      "question": "地铁站 -- Dìtiě zhàn",
-      "answer": "Subway Station"
+      "cardfront": "地铁站 -- Dìtiě zhàn",
+      "cardback": "Subway Station"
     }
   ]
 }
