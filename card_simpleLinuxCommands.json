@@ -2,70 +2,70 @@
   "source": "HungryRaccoonStudios/SampleCards",
   "title": "Linux Command",
   "description": "Test your knowledge of Linux commands by matching the descriptions with the correct command",
-  "translations": [
+  "flashcards": [
     {
-      "question": "List files and directories in the current directory",
-      "answer": "ls"
+      "cardfront": "List files and directories in the current directory",
+      "cardback": "ls"
     },
     {
-      "question": "Change directory",
-      "answer": "cd"
+      "cardfront": "Change directory",
+      "cardback": "cd"
     },
     {
-      "question": "Print the current working directory",
-      "answer": "pwd"
+      "cardfront": "Print the current working directory",
+      "cardback": "pwd"
     },
     {
-      "question": "Copy files or directories",
-      "answer": "cp"
+      "cardfront": "Copy files or directories",
+      "cardback": "cp"
     },
     {
-      "question": "Move or rename files or directories",
-      "answer": "mv"
+      "cardfront": "Move or rename files or directories",
+      "cardback": "mv"
     },
     {
-      "question": "Remove files or directories",
-      "answer": "rm"
+      "cardfront": "Remove files or directories",
+      "cardback": "rm"
     },
     {
-      "question": "Create a new directory",
-      "answer": "mkdir"
+      "cardfront": "Create a new directory",
+      "cardback": "mkdir"
     },
     {
-      "question": "Remove an empty directory",
-      "answer": "rmdir"
+      "cardfront": "Remove an empty directory",
+      "cardback": "rmdir"
     },
     {
-      "question": "Display or concatenate the content of files",
-      "answer": "cat"
+      "cardfront": "Display or concatenate the content of files",
+      "cardback": "cat"
     },
     {
-      "question": "Search for patterns in files",
-      "answer": "grep"
+      "cardfront": "Search for patterns in files",
+      "cardback": "grep"
     },
     {
-      "question": "Change file permissions",
-      "answer": "chmod"
+      "cardfront": "Change file permissions",
+      "cardback": "chmod"
     },
     {
-      "question": "Display information about running processes",
-      "answer": "ps"
+      "cardfront": "Display information about running processes",
+      "cardback": "ps"
     },
     {
-      "question": "Terminate or signal processes",
-      "answer": "kill"
+      "cardfront": "Terminate or signal processes",
+      "cardback": "kill"
     },
     {
-      "question": "Display disk space usage",
-      "answer": "df"
+      "cardfront": "Display disk space usage",
+      "cardback": "df"
     },
     {
-      "question": "Display the manual for a command",
-      "answer": "man"
+      "cardfront": "Display the manual for a command",
+      "cardback": "man"
     },
     {
-      "question": "Display command history",
-      "answer": "history"
+      "cardfront": "Display command history",
+      "cardback": "history"
     }
   ]
 }
