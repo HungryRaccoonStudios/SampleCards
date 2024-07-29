@@ -1,0 +1,14 @@
+{
+    "source": "<user>/<repo>",
+    "title": "<title>",
+    "description": "<title>",
+    "flashcards": [
+      {
+        "cardfront": "<front>",
+        "cardback": "<back>"
+      },
+
+      <...>
+    ]
+  }
+  
